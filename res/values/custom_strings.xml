@@ -30,4 +30,8 @@
     <string name="rom_version">CesiumOS version</string>
     <string name="rom_version_default">Unknown</string>
 
+    <!-- Tweaks -->
+    <string name="cesium_tweaks_title">Tweaks</string>
+    <string name="cesium_tweaks_summary">Tweak it!</string>
+
 </resources>
